@@ -8,7 +8,7 @@ FLUSH PRIVILEGES;
 CREATE TABLE `qiang_bot` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `chain_name` varchar(255) DEFAULT NULL,
-  `main_balance` decimal(16,10) DEFAULT NULL,
+  `main_balance` varchar(255) DEFAULT NULL,
   `block_num` varchar(50) DEFAULT NULL,
   `created_at` timestamp NULL DEFAULT CURRENT_TIMESTAMP,
   `updated_at` timestamp NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
