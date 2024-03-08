@@ -1,0 +1,980 @@
+2024-03-08 18:12:17 [INFO] [149] - package: mysql.connector.plugins
+package: mysql.connector.plugins
+2024-03-08 18:12:17 [INFO] [150] - plugin_name: mysql_native_password
+plugin_name: mysql_native_password
+2024-03-08 18:12:17 [INFO] [154] - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-03-08 18:14:33 [INFO] [149] - package: mysql.connector.plugins
+package: mysql.connector.plugins
+2024-03-08 18:14:33 [INFO] [150] - plugin_name: mysql_native_password
+plugin_name: mysql_native_password
+2024-03-08 18:14:33 [INFO] [154] - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-03-08 18:16:27 [INFO] [149] - package: mysql.connector.plugins
+package: mysql.connector.plugins
+2024-03-08 18:16:27 [INFO] [150] - plugin_name: mysql_native_password
+plugin_name: mysql_native_password
+2024-03-08 18:16:27 [INFO] [154] - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-03-08 18:17:07 [INFO] [149] - package: mysql.connector.plugins
+package: mysql.connector.plugins
+2024-03-08 18:17:07 [INFO] [150] - plugin_name: mysql_native_password
+plugin_name: mysql_native_password
+2024-03-08 18:17:07 [INFO] [154] - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-03-08 18:17:28 [INFO] [149] - package: mysql.connector.plugins
+package: mysql.connector.plugins
+2024-03-08 18:17:28 [INFO] [150] - plugin_name: mysql_native_password
+plugin_name: mysql_native_password
+2024-03-08 18:17:28 [INFO] [154] - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-03-08 18:18:24 [INFO] [149] - package: mysql.connector.plugins
+package: mysql.connector.plugins
+2024-03-08 18:18:24 [INFO] [150] - plugin_name: mysql_native_password
+plugin_name: mysql_native_password
+2024-03-08 18:18:24 [INFO] [154] - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-03-08 18:18:26 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+2024-03-08 18:18:26 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:33 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+2024-03-08 18:18:33 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:33 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+2024-03-08 18:18:33 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:34 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+2024-03-08 18:18:34 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:35 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+2024-03-08 18:18:35 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:35 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+2024-03-08 18:18:35 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:36 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+2024-03-08 18:18:36 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:37 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+2024-03-08 18:18:37 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:37 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+2024-03-08 18:18:37 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:38 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+2024-03-08 18:18:38 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:38 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+2024-03-08 18:18:38 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:39 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+2024-03-08 18:18:39 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:40 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+2024-03-08 18:18:40 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:40 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+2024-03-08 18:18:40 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:41 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+2024-03-08 18:18:41 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:42 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+2024-03-08 18:18:42 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:43 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+2024-03-08 18:18:43 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:43 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+2024-03-08 18:18:43 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:44 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+2024-03-08 18:18:44 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:44 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+2024-03-08 18:18:44 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:45 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+2024-03-08 18:18:45 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:46 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+2024-03-08 18:18:46 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:46 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+2024-03-08 18:18:46 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:47 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+2024-03-08 18:18:47 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:48 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+2024-03-08 18:18:48 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:49 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+2024-03-08 18:18:49 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:49 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+2024-03-08 18:18:49 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:50 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+2024-03-08 18:18:50 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:51 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+2024-03-08 18:18:51 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:51 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+2024-03-08 18:18:51 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:52 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+2024-03-08 18:18:52 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:52 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+2024-03-08 18:18:52 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:53 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+2024-03-08 18:18:53 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:54 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+2024-03-08 18:18:54 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:54 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+2024-03-08 18:18:54 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:55 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+2024-03-08 18:18:55 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:55 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+2024-03-08 18:18:55 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:56 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+2024-03-08 18:18:56 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:57 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+2024-03-08 18:18:57 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:57 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+2024-03-08 18:18:57 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:58 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+2024-03-08 18:18:58 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:18:59 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+2024-03-08 18:18:59 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:00 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+2024-03-08 18:19:00 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:00 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+2024-03-08 18:19:00 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:01 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+2024-03-08 18:19:01 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:02 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+2024-03-08 18:19:02 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:02 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+2024-03-08 18:19:02 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:03 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+2024-03-08 18:19:03 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:04 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+2024-03-08 18:19:04 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:05 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+2024-03-08 18:19:05 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:05 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+2024-03-08 18:19:05 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:06 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+2024-03-08 18:19:06 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:07 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+2024-03-08 18:19:07 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:08 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+2024-03-08 18:19:08 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:08 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+2024-03-08 18:19:08 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:09 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+2024-03-08 18:19:09 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:09 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+2024-03-08 18:19:09 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:10 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+2024-03-08 18:19:10 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:11 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+2024-03-08 18:19:11 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:12 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+2024-03-08 18:19:12 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:12 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+2024-03-08 18:19:12 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:13 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+2024-03-08 18:19:13 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:14 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+2024-03-08 18:19:14 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:14 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+2024-03-08 18:19:14 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:15 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+2024-03-08 18:19:15 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:15 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+2024-03-08 18:19:15 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:16 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+2024-03-08 18:19:16 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:17 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+2024-03-08 18:19:17 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:17 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+2024-03-08 18:19:17 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:18 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+2024-03-08 18:19:18 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:19 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+2024-03-08 18:19:19 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:20 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+2024-03-08 18:19:20 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:20 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+2024-03-08 18:19:20 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:21 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+2024-03-08 18:19:21 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:21 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+2024-03-08 18:19:21 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:22 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+2024-03-08 18:19:22 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:23 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+2024-03-08 18:19:23 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:23 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+2024-03-08 18:19:23 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:24 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+2024-03-08 18:19:24 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:24 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+2024-03-08 18:19:24 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:25 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+2024-03-08 18:19:25 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:25 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+2024-03-08 18:19:25 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:26 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+2024-03-08 18:19:26 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:27 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+2024-03-08 18:19:27 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:27 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+2024-03-08 18:19:27 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:28 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+2024-03-08 18:19:28 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:28 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+2024-03-08 18:19:28 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:29 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+2024-03-08 18:19:29 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:29 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+2024-03-08 18:19:29 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:30 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+2024-03-08 18:19:30 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:30 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+2024-03-08 18:19:30 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:32 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+2024-03-08 18:19:32 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:32 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+2024-03-08 18:19:32 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:33 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+2024-03-08 18:19:33 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:33 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+2024-03-08 18:19:33 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:34 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+2024-03-08 18:19:34 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:35 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+2024-03-08 18:19:35 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:35 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+2024-03-08 18:19:35 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:36 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+2024-03-08 18:19:36 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:36 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+2024-03-08 18:19:36 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:37 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+2024-03-08 18:19:37 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:37 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+2024-03-08 18:19:37 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:38 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+2024-03-08 18:19:38 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:39 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+2024-03-08 18:19:39 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:39 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+2024-03-08 18:19:39 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:40 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+2024-03-08 18:19:40 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:40 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+2024-03-08 18:19:40 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:41 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+2024-03-08 18:19:41 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:41 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+2024-03-08 18:19:41 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:42 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+2024-03-08 18:19:42 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:43 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+2024-03-08 18:19:43 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:44 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+2024-03-08 18:19:44 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:44 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+2024-03-08 18:19:44 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:45 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+2024-03-08 18:19:45 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:45 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+2024-03-08 18:19:45 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:46 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+2024-03-08 18:19:46 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:46 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+2024-03-08 18:19:47 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:47 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+2024-03-08 18:19:47 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:48 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+2024-03-08 18:19:48 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:48 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+2024-03-08 18:19:48 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:49 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+2024-03-08 18:19:49 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:49 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+2024-03-08 18:19:49 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:50 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+2024-03-08 18:19:50 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:51 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+2024-03-08 18:19:51 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:51 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+2024-03-08 18:19:51 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:52 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+2024-03-08 18:19:52 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:52 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+2024-03-08 18:19:52 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:53 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+2024-03-08 18:19:53 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:54 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+2024-03-08 18:19:54 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:55 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+2024-03-08 18:19:55 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:55 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+2024-03-08 18:19:55 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:56 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+2024-03-08 18:19:56 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:56 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+2024-03-08 18:19:56 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:57 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+2024-03-08 18:19:57 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:57 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+2024-03-08 18:19:57 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:58 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+2024-03-08 18:19:58 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:19:59 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+2024-03-08 18:19:59 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:00 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+2024-03-08 18:20:00 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:00 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+2024-03-08 18:20:00 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:01 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+2024-03-08 18:20:01 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:01 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+2024-03-08 18:20:01 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:02 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+2024-03-08 18:20:02 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:02 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+2024-03-08 18:20:02 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:03 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+2024-03-08 18:20:03 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:04 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+2024-03-08 18:20:04 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:05 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+2024-03-08 18:20:05 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:05 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+2024-03-08 18:20:05 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:06 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+2024-03-08 18:20:06 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:06 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+2024-03-08 18:20:06 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:07 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+2024-03-08 18:20:07 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:07 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+2024-03-08 18:20:07 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:08 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+2024-03-08 18:20:08 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:09 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+2024-03-08 18:20:09 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:10 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+2024-03-08 18:20:10 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:10 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+2024-03-08 18:20:10 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:11 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+2024-03-08 18:20:11 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:11 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+2024-03-08 18:20:11 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:12 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+2024-03-08 18:20:12 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:13 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+2024-03-08 18:20:13 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:13 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+2024-03-08 18:20:13 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:14 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+2024-03-08 18:20:14 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:14 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+2024-03-08 18:20:14 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:15 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+2024-03-08 18:20:15 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:15 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+2024-03-08 18:20:16 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:16 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+2024-03-08 18:20:16 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:17 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+2024-03-08 18:20:17 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:18 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+2024-03-08 18:20:18 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:18 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+2024-03-08 18:20:18 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:19 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+2024-03-08 18:20:19 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:19 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+2024-03-08 18:20:19 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:20 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+2024-03-08 18:20:20 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:21 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+2024-03-08 18:20:21 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:21 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+2024-03-08 18:20:21 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:22 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+2024-03-08 18:20:22 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:23 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+2024-03-08 18:20:23 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:23 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+2024-03-08 18:20:23 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:24 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+2024-03-08 18:20:24 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:25 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+2024-03-08 18:20:25 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:25 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+2024-03-08 18:20:25 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:26 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+2024-03-08 18:20:26 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:26 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+2024-03-08 18:20:26 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:27 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+2024-03-08 18:20:27 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:28 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+2024-03-08 18:20:28 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:29 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+2024-03-08 18:20:29 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:29 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+2024-03-08 18:20:29 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:30 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+2024-03-08 18:20:30 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:31 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+2024-03-08 18:20:31 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:31 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+2024-03-08 18:20:31 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:32 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+2024-03-08 18:20:32 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:32 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+2024-03-08 18:20:32 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:33 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+2024-03-08 18:20:33 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:34 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+2024-03-08 18:20:34 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:34 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+2024-03-08 18:20:34 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:35 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+2024-03-08 18:20:35 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:36 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+2024-03-08 18:20:36 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:37 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+2024-03-08 18:20:37 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:37 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+2024-03-08 18:20:37 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:38 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+2024-03-08 18:20:38 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:38 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+2024-03-08 18:20:38 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:39 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+2024-03-08 18:20:39 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:40 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+2024-03-08 18:20:40 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:40 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+2024-03-08 18:20:40 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:41 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+2024-03-08 18:20:41 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:41 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+2024-03-08 18:20:41 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:42 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+2024-03-08 18:20:42 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:42 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+2024-03-08 18:20:42 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:43 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+2024-03-08 18:20:43 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:44 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+2024-03-08 18:20:44 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:44 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+2024-03-08 18:20:44 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:45 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+2024-03-08 18:20:45 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:45 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+2024-03-08 18:20:45 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:46 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+2024-03-08 18:20:46 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:47 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+2024-03-08 18:20:47 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:48 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+2024-03-08 18:20:48 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:48 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+2024-03-08 18:20:48 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:49 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+2024-03-08 18:20:49 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:49 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+2024-03-08 18:20:49 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:50 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+2024-03-08 18:20:50 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:51 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+2024-03-08 18:20:51 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:52 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+2024-03-08 18:20:52 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:52 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+2024-03-08 18:20:52 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:53 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+2024-03-08 18:20:53 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:53 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+2024-03-08 18:20:53 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:54 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+2024-03-08 18:20:54 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:55 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+2024-03-08 18:20:55 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:55 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+2024-03-08 18:20:55 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:56 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840070>> 
+2024-03-08 18:20:56 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:57 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816a90>> 
+2024-03-08 18:20:57 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:57 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a840280>> 
+2024-03-08 18:20:57 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:58 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a8405b0>> 
+2024-03-08 18:20:58 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:58 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a816d30>> 
+2024-03-08 18:20:58 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:20:59 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a6bbe20>> 
+2024-03-08 18:20:59 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:21:00 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823670>> 
+2024-03-08 18:21:00 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:21:00 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823a00>> 
+2024-03-08 18:21:00 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:21:01 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823c10>> 
+2024-03-08 18:21:01 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
+2024-03-08 18:21:01 [INFO] [57] - connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+connect mysql: <bound method MySQLConnection.is_connected of <mysql.connector.connection.MySQLConnection object at 0x10a823e20>> 
+2024-03-08 18:21:01 [INFO] [43] - Data inserted into MySQL database
+Data inserted into MySQL database
