@@ -1,4 +1,10 @@
 # python-monitor 环境安装及运行
+```
+git clone https://github.com/amumuku/python-monitor.git 拉取代码
+
+ls -a  查看隐藏文件 .env,并修改文件里面的参数
+```
+
 # 1-监控 安装环境
 ```
 pip install -r requirements.txt
@@ -12,3 +18,5 @@ nohup python python-monitor-maintoken-balance.py > monitor-maintoken.log 2>&1 &
 ```
 nohup python python-monitor-othertokens-balance.py  > monitor-othertokens.log 2>&1 &
 ```
+
+
