@@ -1,8 +1,9 @@
 # python-monitor 环境安装及运行
 ```
-git clone https://github.com/amumuku/python-monitor.git 拉取代码
-
-ls -a  查看隐藏文件 .env,并修改文件里面的参数
+拉取代码
+git clone https://github.com/amumuku/python-monitor.git 
+查看隐藏文件 .env,并修改文件里面的参数
+ls -a  
 ```
 
 # 1-监控 安装环境
